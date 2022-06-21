@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
+//ttttttt
     //this is what we see when we click the button
     //this is register onClick method from main.xml
     public void onBtnClick (View view) {
